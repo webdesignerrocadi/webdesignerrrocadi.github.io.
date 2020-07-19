@@ -22,10 +22,10 @@
 
 
 <figure>
-<img src="imagenes/cafe.jpg"alt=height="200" width="500" />
-<img src="imagenes/GalloPinto.jpg"alt=height="200" width="500" />
-<img src="imagenes/ensalada.jpg"alt=height="200" width="500" />
-<img src="imagenes/pizza.jpg"alt=height="200" width="500" />
+<img src="imagenes/cafe.jpg"/>
+<img src="imagenes/GalloPinto.jpg"/>
+<img src="imagenes/ensalada.jpg"/>
+<img src="imagenes/pizza.jpg"/>
 </figure>
 
 
