@@ -42,6 +42,6 @@
 <p>I lived  in San José and I really miss the beach.</p>
 
 <footer>
-<h6>This page was created by Rocío Cárdenas</h6>
-<h6>To learn more about me web design, visit</p> <a href= “http://rociocardenas-rocadi.blogspot.com/”>Web Desing</h6>
+<h6>This page was created by Rocío Cárdenas. To learn more about me web design</h6>
+<a href=visit</p> <a href= “http://rociocardenas-rocadi.blogspot.com/”target="_blank">Web Desing</a>
 </footer>
