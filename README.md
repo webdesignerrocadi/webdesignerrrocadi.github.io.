@@ -22,10 +22,10 @@
 
 
 <figure>
-<img src="imagenes/cafe.jpg"/></a></li>
-<img src="imagenes/GalloPinto.jpg"/></a></li>
-<img src="imagenes/ensalada.jpg"/></a></li>
-<img src="imagenes/pizza.jpg"/></a></li>
+<img src="01-cafe.jpg"/></a></li>
+<img src="03-gallopinto.jpg"/></a></li>
+<img src="02-ensalada.jpg"/></a></li>
+<img src="04-pizza.jpg"/></a></li>
 </figure>
 
 
