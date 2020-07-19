@@ -22,8 +22,8 @@
 
 
 <figure>
-<img src="01-cafe.jpg"/></a></li>     <img src="03-gallopinto.jpg"/></a></li>
-<img src="02-ensalada.jpg"/></a></li>  <img src="04-pizza.jpg"/></a></li>
+<img src="01-cafe.jpg"/></a></li> <img src="03-gallopinto.jpg"/></a></li>
+<img src="02-ensalada.jpg"/></a></li><img src="04-pizza.jpg"/></a></li>
 </figure>
 
 
@@ -43,5 +43,5 @@
 
 <footer>
 <h6>This page was created by Rocío Cárdenas. To learn more about me web design</h6>
-<a href=visit</p> <a href= “http://rociocardenas-rocadi.blogspot.com/”target="_blank">Web Desing</a>
+<a href=visit</p> <a href= “http://rociocardenas-rocadi.blogspot.com/"_blank">http://rociocardenas-rocadi.blogspot.com/</a>
 </footer>
