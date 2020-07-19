@@ -24,14 +24,10 @@
 </ul>
 
 <figure>
- <img srt=”GalloPinto”width=”50%” alt=”GalloPinto”>
- <figcaption>Relative image</ figcaption>
- <img srt=”cafe.png”width=”50%alt=”Coffee”>
- <figcaption>Relative image</ figcaption>
-<img srt=”ensalada.png”width=”50%alt=”ensalada.png”>
- <figcaption>Relative image</ figcaption>
- <img srt=”pizza.png”width=”50% alt=”pizza.png”>
- <figcaption>Relative image</ figcaption>
+<img src="GalloPinto.png” alt=“Gallo Pinto”>
+<img src="cafe.png” alt=“Coffee”>
+<img src="ensalada.png” alt=“Salads”>
+<img src="pizza.png” alt=“Pizza”>
 </figure>
 
 <h2>Achievements</h2>
