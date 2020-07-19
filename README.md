@@ -10,7 +10,6 @@
 
 </footer>
 
-
 <h2>Favorite Foods</h2>
 <ul>
   <li>Gallo Pinto</li>
@@ -18,8 +17,6 @@
   <li>Ensaladas</li>
   <li>Pizza</li>
 </ul>
-
-
 
 <figure>
 <img src="01-cafe.jpg"/></a></li> <img src="03-gallopinto.jpg"/></a></li>
