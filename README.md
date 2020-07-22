@@ -26,7 +26,7 @@
 
 
 <h2>&#x25BC;Achievements</h2>
-<p>Progress in this course (100%): <meter max="5000"  value="5000"></meter></p>
+<p>Progress in this course (100%): <meter max="100"value="100"></meter></p>
 
 <p>Progres en the Specialization Capstone (20%): <meter max="2048"value="547" ></meter></p>
 
