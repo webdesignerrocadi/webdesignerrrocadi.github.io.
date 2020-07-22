@@ -27,10 +27,11 @@
 
 <h2>&#x25BC;Achievements</h2>
 <p>Progress in this course (100%): <meter max="100"value="100"></meter></p>
+<progress value="50" max="50"></progress>
 
-<p>Progres en the Specialization Capstone (20%): <input type="range" min="-10" max="10">
+<p>Progres en the Specialization Capstone (20%): <progress value="15" max="50"></progress>
 
-<p>Progress in life goals (75%): <meter max="4100" value="2154""></meter></p>
+<p>Progress in life goals (75%): <progress value="34" max="50"></progress>
  
 
 
