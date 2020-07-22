@@ -31,6 +31,10 @@
 <p>Progres en the Specialization Capstone (20%): <meter max="2048"value="547" ></meter></p>
 
 <p>Progress in life goals (75%): <meter max="4100" value="2154""></meter></p>
+  
+  <meter min="2" max="20" value="4">valor 4</meter>
+<meter min="2" max="20" value="10">valor 10</meter>
+<meter min="2" max="20" value=“20”>valor 20</meter>
 
 
 <h2>More About Me</h2>
