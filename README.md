@@ -28,7 +28,7 @@
 <h2>&#x25BC;Achievements</h2>
 <p>Progress in this course (100%): 
   
-  <img src="05-barra100.png"/></a></li>
+  <img src="05-barra100.png"width="50" height="50"/></a></li>
 
 <p>Progres en the Specialization Capstone (20%):
   
